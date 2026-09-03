@@ -1,29 +1,83 @@
-<h1 align="center">👋 Hi, I'm @its-MahiOP</h1>
-<h3 align="center">CSE Undergraduate, An aspiring Full Stack Engineer from Bangladesh</h3>
+<!--- banner --->
+<img src="./banner/my-github-banner.png" alt="Hello World!!!">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-mahiop&label=Profile%20views&color=0e75b6&style=flat" alt="its-mahiop" /> </p>
+<br/>
 
-- 🌱 I’m currently learning **React.js, TypeScript, Tailwind CSS**
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">👋 Hi, I'm Md Mehedi Hasan Chowdhury Mahi</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&random=true&width=500&lines=CSE+Undergraduate;Aspiring+Full+Stack+Developer;Aspiring+Software+Engineer;AI+Enthusiast)](https://git.io/typing-svg" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
-- 👨‍💻 Explore My Portfolio [https://mehedi-hasan-mahi.netlify.app](https://mehedi-hasan-mahi.netlify.app)
+<br/>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/md-mehedi-hasan-chowdhury-mahi/](https://www.linkedin.com/in/md-mehedi-hasan-chowdhury-mahi/)
+<!--- about --->
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bkDclhVyF5pT_gfjHJl5x7FFEH9ZZ0tm/view?usp=sharing](https://drive.google.com/file/d/1bkDclhVyF5pT_gfjHJl5x7FFEH9ZZ0tm/view?usp=sharing)
+- 👋 Hi, I’m **[@its-MahiOP](https://github.com/its-MahiOP)**
+- 🖥️ I’m currently working on **TypeScript, HTML5, CSS3** for frontend development.
+- 🛠️ I’m currently learning **React.js, Tailwind CSS**.
+- 🗄️ I'm upto learn **Node.js, Express.js, MongoDB, PostgreSQL** for the backend.
+- 🌐 Explore My **[Portfolio](https://mehedi-hasan-mahi.netlify.app)** and My **[Resume](https://drive.google.com/file/d/1bkDclhVyF5pT_gfjHJl5x7FFEH9ZZ0tm/view?usp=sharing)**
+- 📝 Here's My **[LinkedIn](https://www.linkedin.com/in/md-mehedi-hasan-chowdhury-mahi/)**
+- 📫 Feel free to reach me out **[Email](mehedimahi07@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-mehedi-hasan-chowdhury-mahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mehedi-hasan-chowdhury-mahi" height="30" width="40" /></a>
-<a href="https://fb.com/mdmehedihasan.chowdhury.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmehedihasan.chowdhury.52" height="30" width="40" /></a>
-<a href="https://instagram.com/its__mahi__op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its__mahi__op" height="30" width="40" /></a>
-<a href="https://discord.gg/744165032794914987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="744165032794914987" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!--- socials --->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-mahiop&show_icons=true&locale=en&layout=compact" alt="its-mahiop" /></p>
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-mahiop&show_icons=true&locale=en" alt="its-mahiop" /></p>
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/md-mehedi-hasan-chowdhury-mahi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="my-linkedin" height="30" width="40" /></a>
+    <a href="https://discordapp.com/users/its_mahi_op" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="my-discord" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/its__mahi__op/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="my-ig" height="30" width="40" /></a>
+  </p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-mahiop&" alt="its-mahiop" /></p>
+<br/>
+
+<!--- technology --->
+
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+
+### Languages:
+
+[![Languages](https://skillicons.dev/icons?i=c,cpp,javascript,typescript,py,java)](https://github.com/its-MahiOP)
+
+### Foundations & Frameworks:
+
+[![Languages](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://github.com/its-MahiOP)
+
+### Database & Model:
+
+[![Database & Model](https://skillicons.dev/icons?i=mysql,postgres,supabase)](https://github.com/its-MahiOP)
+
+### Deployment Platform:
+
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/its-MahiOP)
+
+### Tools & Technologies:
+
+[![Tools & Technologies](https://skillicons.dev/icons?i=ubuntu,git,github,vscode,matlab)](https://github.com/its-MahiOP)
+
+<br/>
+
+<!--- statistics --->
+
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=its-MahiOP&theme=highcontrast&border_radius=5)](https://git.io/streak-stats)
+
+<br/>
+
+<!--- random quote --->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> DAILY DEV QUOTE:</b>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+
+---
