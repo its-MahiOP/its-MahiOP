@@ -8,7 +8,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">👋 Hi, I'm Md Mehedi Hasan Chowdhury Mahi</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&random=true&width=500&lines=CSE+Undergraduate;Aspiring+Full+Stack+Developer;Aspiring+Software+Engineer;AI+Enthusiast)](https://git.io/typing-svg" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&random=true&width=500&lines=CSE+Undergraduate;Aspiring+Full+Stack+Developer;Aspiring+Software+Engineer;AI+Enthusiast" alt="Typing SVG" /></a>
   </ul>
 </div>
 
